@@ -4,6 +4,10 @@
   </p>
 </h2>
 
+<div align="center">
+  <img src="https://github.com/codifycommunity/Login/blob/master/login.png?raw=true">
+</div>
+
 1. Clone o repositório.
 ```bash
 git clone https://github.com/codifycommunity/Login.git
